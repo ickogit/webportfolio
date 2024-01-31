@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.button {
+	background-color: orange;
+	border-radius: 50px;
+	color: white;
+	padding: 10;
+}
+
+.imgborder {
+	border: 2px solid orange;
+	border-radius: 50px;
+}
+
+.cardborder {
+	border: 2px solid orange;
+}
+
+.profilepicborder {
+	border: 5px solid orange;
+	border-radius: 50px;
+}
